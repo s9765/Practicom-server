@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+C:\Users\User\Desktop\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\פרקטיקום\‏‏תיקיה חדשה\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\פרקטיקום\shevi\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+C:\Users\User\Desktop\פרקטיקום\רביעי בערב\יום רביעי בערב\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
